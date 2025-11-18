@@ -1,16 +1,23 @@
-## Hi there 👋
+## Привет! 👋
+--------------------
+### Меня зовут Ольга Чайка!
 
-<!--
-**ChaikaOlga/ChaikaOlga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist с опытом около 1 года. 
 
-Here are some ideas to get you started:
+**Основные навыки:**
+- **Programming Languages:** Python, SQL
+- **Data Analysis:** Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn
+- **Statistical Analysis:** Regression
+- **Machine Learning:** scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Дополнительные навыки:**
+- **Version Control:** Git, GitHub
+
+**Contact and Links:**
+Email: [chaika.oa@bk.ru](chaika.oa@bk.ru)
+Telegram: [olen_r](https://t.me/olen_r)
+Portfolio:
+[project_1](https://github.com/ChaikaOlga/location_for_an_oil_well)
+[project_2](https://github.com/ChaikaOlga/determining_the_cost_of_cars)
+[project_3](https://github.com/ChaikaOlga/customer_churn_for_the_telecom_operator)
