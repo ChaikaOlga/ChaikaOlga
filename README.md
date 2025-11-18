@@ -15,7 +15,7 @@ Data Scientist с опытом около 1 года.
 - **Version Control:** Git, GitHub
 
 ## **Contact and Links:**
-- **Email:** [chaika.oa@bk.ru](chaika.oa@bk.ru)
+- **Email:** chaika.oa@bk.ru
 - **Telegram:** [olen_r](https://t.me/olen_r)
 - **Portfolio:**
   -  [project_1](https://github.com/ChaikaOlga/location_for_an_oil_well)
